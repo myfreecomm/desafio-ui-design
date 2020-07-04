@@ -29,13 +29,24 @@ Seu objetivo é otimizar a experiência de navegação do usuário na manipulaç
 </tbody>
 </table>
 
+#### <i class="icon-file"></i> Consulta de Produtos
+<table>
+<tbody>
+<tr><th>Consulta</th>
+</tr>
+<tr>
+<td><img src="https://github.com/myfreecomm/desafio-ui-design/blob/master/product-edit.png?raw=true" style="height:300px"></td>
+</tr>
+</tbody>
+</table>
+
 #### <i class="icon-file"></i> Edição de Produtos
 <table>
 <tbody>
 <tr><th>Edição</th>
 </tr>
 <tr>
-<td><img src="https://github.com/myfreecomm/desafio-ui-design/blob/master/product-edit.png?raw=true" style="height:300px"></td>
+<td><img src="https://github.com/myfreecomm/desafio-ui-design/blob/master/product-edit-2.png?raw=true" style="height:300px"></td>
 </tr>
 </tbody>
 </table>
