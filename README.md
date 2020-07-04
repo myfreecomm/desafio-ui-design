@@ -47,3 +47,6 @@ Seu objetivo é otimizar a experiência de navegação do usuário na manipulaç
 #### <i class="icon-hdd"></i> Plus
 - Construir layouts em HTML;
 
+#### <i class="icon-hdd"></i> Formato da entrega
+- Protótipo navegável no Figma ou ferramenta equivalente;
+
