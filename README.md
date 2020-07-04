@@ -51,4 +51,5 @@ Seu objetivo é otimizar a experiência de navegação do usuário na manipulaç
 
 #### <i class="icon-hdd"></i> Formato da entrega
 - Protótipo navegável no Figma ou ferramenta equivalente;
+- Pensando que você fosse apresentar esse trabalho para seu time, como seria isso ? Um case ? um ppt ? 
 
