@@ -15,6 +15,7 @@ Seu objetivo é otimizar a experiência de navegação do usuário na manipulaç
 
 > - A ideia é avaliar a criatividade na concepção das telasl
 > - Lembre-se de que usabilidade é importante, a navegação precisa ser fluída e intuítiva;
+> - O usuário precisa usar no celular também;
 
 
 #### <i class="icon-file"></i> Listagem de Produtos
@@ -43,6 +44,7 @@ Seu objetivo é otimizar a experiência de navegação do usuário na manipulaç
 #### <i class="icon-folder-open"></i> O que esperamos
 - Bom design e usabilidade;
 - Criatividade em conseguir organizar muitas informações em uma navegação simples e intuitíva;
+- Pensar na experiência mobile;
 
 #### <i class="icon-hdd"></i> Plus
 - Construir layouts em HTML;
