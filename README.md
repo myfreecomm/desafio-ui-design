@@ -51,6 +51,17 @@ Seu objetivo é otimizar a experiência de navegação do usuário na manipulaç
 </tbody>
 </table>
 
+#### <i class="icon-file"></i> Edição de Produtos (SKU)
+<table>
+<tbody>
+<tr><th>Ao clicar nos ... na variação do SKU abre uma janela modal</th>
+</tr>
+<tr>
+<td><img src="https://github.com/myfreecomm/desafio-ui-design/blob/master/product-edit-3.png?raw=true" style="height:300px"></td>
+</tr>
+</tbody>
+</table>
+
 
 #### <i class="icon-folder-open"></i> O que esperamos
 - Bom design e usabilidade;
